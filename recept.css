@@ -1,0 +1,26 @@
+body{
+color: black;
+background-image: url("kipkip.jpg");
+}
+#box1{
+	text-align:center;
+	color: red;
+	margin:auto auto auto auto;
+	font-family: Arial;
+	font-size: 
+}
+
+.main {
+	display: flex;
+
+}
+.main .left {
+	display: inline-block;
+	width: 30%;	
+}
+.main .up {
+	color:red;
+	display: inline-block;
+	margin: auto auto auto auto;
+	max-width:600px;
+}
